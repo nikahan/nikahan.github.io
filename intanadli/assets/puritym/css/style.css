@@ -171,8 +171,8 @@ h1, h2, h3, h4, h5, h6,
   position: relative;
   display: table-cell;
   vertical-align: middle;
-  padding-top: 9rem;
-  padding-bottom: 9rem; }
+  padding-top: 0;
+  padding-bottom: 15rem; }
 
 .mbr-table-cell-lg {
   position: relative;
