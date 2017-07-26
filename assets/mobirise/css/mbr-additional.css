@@ -1,0 +1,64 @@
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+
+#dropdown-menu-2btn-8 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-8 .nav .link,
+#dropdown-menu-2btn-8 .dropdown-item {
+  font-size: 1.4em;
+  color: #e6e0dc;
+}
+#dropdown-menu-2btn-8 .navbar,
+#dropdown-menu-2btn-8 .dropdown-menu {
+  background: rgba(29, 33, 41, 0.48);
+}
+#dropdown-menu-2btn-8 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-8 .dropdown-menu a:hover,
+#dropdown-menu-2btn-8 .dropdown-menu a:focus {
+  background: #15171d;
+}
+#dropdown-menu-2btn-8 .navbar-toggler {
+  color: #e6e0dc;
+}
+#header1-5 H1 {
+  color: #feeaba;
+  font-family: 'Lora', serif;
+}
+#header1-5 P {
+  color: #d5f4f0;
+  font-size: 24px;
+}
+#content5-b .mbr-section-title {
+  color: #f2f2f2;
+}
+#content5-b P {
+  color: #dddddd;
+}
+#msg-box4-6 .mbr-section-title {
+  text-align: right;
+  color: #3d3d3d;
+}
+#msg-box4-6 .lead P {
+  text-align: right;
+  color: #3d465a;
+}
+#msg-box4-9 .mbr-section-title {
+  color: #f2f2f2;
+  text-align: left;
+}
+#msg-box4-9 .lead P {
+  color: #dddddd;
+  text-align: left;
+}
+#features1-c P {
+  text-align: center;
+}
+#msg-box3-f .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-f .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#footer1-0 P {
+  text-align: center;
+}
